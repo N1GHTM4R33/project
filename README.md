@@ -8,6 +8,8 @@ I will analyse the following repository on GitHub: [DICEBEAR](https://github.com
 - PEU D'ENTRAIDE ET DE DISCUSSION MAIS BEAUCOUP D'UTILISATEUR
 - BEAUCOUP DE VERSIONS TÈS SOUVENT
 - PARLER DES ISSUES ET DES COMENTAIRES
+- LICENSE
+- DOCUMENTATION
 ## Sous title
 ### Sous Sous title
 
