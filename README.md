@@ -12,10 +12,11 @@ You can upload them in several format like:
 
 This is a few example of different avatars you can find on Dicebear:
 
-| Syntax | Description |
+| Avatar| Description |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text | 
+| Adventurer| text |
+| female| Text | 
+|Male|text|
 
 I will analyse this repository from GitHub: [DICEBEAR](https://github.com/dicebear/dicebear)
 
