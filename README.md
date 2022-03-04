@@ -1,6 +1,17 @@
 # DICEBEAR
 
-I will analyse the following repository on GitHub: [DICEBEAR](https://github.com/dicebear/dicebear)
+##Introduction
+
+DiceBear is an avatar library for designers and developers. You can choose between simple identicons or lovely designed characters. The goal is to avoid you to waste time by designing your own avatar while dicebear's community have a huge choice of premade avatars. You can also pull request if you want a specific avatar. 
+You can upload them in several format like: 
+1.PNG
+2.JPG
+3.SPG
+4.With the free HTTP-API (the easiest way)
+5.Use the JavaScript library
+
+
+I will analyse this repository from GitHub: [DICEBEAR](https://github.com/dicebear/dicebear)
 
 - FORKS(TÉLÉCHARGER LE PRJET SUR GIT ET MODIFIER)
 - WATCHING(RECEVOIR LES NOTIFS DE MODIFICATION)
