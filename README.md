@@ -10,8 +10,16 @@ You can upload them in several format like:
 4. With the free HTTP-API (the easiest way)
 5. Use the JavaScript library
 
+This is a few example of different avatars you can find on Dicebear:
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text | 
 
 I will analyse this repository from GitHub: [DICEBEAR](https://github.com/dicebear/dicebear)
+
+##Dicebear's Git
 
 - FORKS(TÉLÉCHARGER LE PRJET SUR GIT ET MODIFIER)
 - WATCHING(RECEVOIR LES NOTIFS DE MODIFICATION)
