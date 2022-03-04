@@ -1,5 +1,5 @@
 # DICEBEAR
-![Dicebear_Logo]()
+![Dicebear_Logo](Dicebear.jpg)
 ## Introduction
 
 DiceBear is an avatar library for designers and developers. You can choose between simple identicons or lovely designed characters. The goal is to avoid you to waste time by designing your own avatar while dicebear's community have a huge choice of premade avatars. You can also pull request if you want a specific avatar. 
