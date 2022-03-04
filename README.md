@@ -20,7 +20,7 @@ This is a few example of different avatars you can find on Dicebear:
 
 I will analyse this repository from GitHub: [DICEBEAR](https://github.com/dicebear/dicebear)
 
-##Dicebear's Git
+## Dicebear's Git
 
 - FORKS(TÉLÉCHARGER LE PRJET SUR GIT ET MODIFIER)
 - WATCHING(RECEVOIR LES NOTIFS DE MODIFICATION)
